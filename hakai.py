@@ -9,7 +9,6 @@ import textwrap
 # =========================================================
 # CONFIGURATION & SOURCE OF TRUTH GATES
 # =========================================================
-TESTING_MODE = True  # Set to False to log official records!
 GAME_POOL = [
     "Fallout 76", "The Division 2", "The First Descendant", "Helldivers 2",
     "Titanfall 2", "Doom Eternal", "Soulcalibur 6", "DB Xenoverse 2",
@@ -106,12 +105,27 @@ def load_objectives():
 
 WILDCARDS_DB = load_objectives()
 
-# --- INITIAL DATA LOAD ---
+# --- INITIAL MODE ROUTER ---
+print("--- Select Execution Mode ---", flush=True)
+print("[1] Simulation (Test Run)", flush=True)
+print("[2] Production (Live Records)", flush=True)
+
+while True:
+    mode_choice = input("\nSelect mode (1 or 2): ").strip()
+    if mode_choice in ["1", "2"]:
+        break
+    print("⚠️  Invalid entry. Use 1 or 2.", flush=True)
+
+TESTING_MODE = (mode_choice == "1")
+
+# --- DATA ROUTING LAYER ---
 if TESTING_MODE:
-    print("🧪 --- TESTING MODE ACTIVE --- 🧪", flush=True)
+    print("\n🧪 --- TESTING MODE ACTIVE --- 🧪", flush=True)
     print("Using Simulated History Data...\n", flush=True)
     all_history = ["The Division 2", "Helldivers 2", "Titanfall 2"]
 else:
+    print("\n⚡ --- LIVE RUNTIME ENGAGED --- ⚡", flush=True)
+    print("Accessing Production Ecosystem...\n", flush=True)
     with open(HISTORY_FILE, "r", encoding="utf-8") as f:
         all_history = [line.strip() for line in f if line.strip() in GAME_POOL]
 
@@ -259,7 +273,7 @@ while rolls_queue:
             rolls_queue.append((bonus_diff, f"✨ ACT {next_act_num}: ENCORE ({bonus_diff})"))
 
 # --- PHASE 2: GO PLAY / DEBRIEF AFTER-ACTION REPORT ---
-print("\n🎮 ITINERARY LOCKED. GOOD LUCK! 🎮", flush=True)
+print("\n🎮 ITINERARY LOCKED. GO STREAM SESSIONS! 🎮", flush=True)
 print("================================", flush=True)
 
 while True:
