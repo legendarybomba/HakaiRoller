@@ -1,0 +1,6 @@
+{
+    "character_level": 1,
+    "wallet_balance": 10,
+    "total_xp": 10,
+    "completed_missions": 1
+}
