@@ -54,4 +54,4 @@ We are currently architecturalizing an AI-driven evolution to replace hardcoded 
 ## 🤝 Credits & Inspiration
 
 * **Dynamic Library Management (DLM) Concept:** Inspired by and developed in collaboration with [@theZoblin](https://github.com/theZoblin).
-* **Development & Design:** Christopher Mabin (Cee-Jay)
+* **Development & Design:** DFC
