@@ -1,1 +1,4 @@
 Target Farm: Run a specific mission 3 times for a blueprint drop.
+Chainsaw Massacre: Secure 5 chainsaw or bayonet charge kills in a single round.
+360 No-Scope: Destroy a Hulk or a Charger using an Anti-Material Rifle or Recoilless Rifle from over 50 meters away.
+Speedrun Democracy: Clear all main objectives in a blitz mission with 5+ minutes left.
