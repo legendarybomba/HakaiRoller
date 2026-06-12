@@ -1,0 +1,106 @@
+[DB Xenoverse 2]
+Easy | Parallel Quest: Clear 3 low-tier Parallel Quests to stock up on items.
+Easy | Mentor Session: Complete a training milestone lesson with your current Instructor.
+Easy | Fashion Patrol: Customize a new preset outfit and skill loadout for your Time Patroller.
+Easy | Hero Colosseum: Play 2 figure battles inside the capsule mini-game area.
+Easy | Conton Tour: Fly around Conton City and locate 3 hidden rift rewards or items.
+Easy | Parallel Quest Grind: Complete 3 high-tier Parallel Quests with an Ultimate Finish rating while using a customized Earthling or Saiyan.
+Easy | Combo King: Land a continuous, uninterrupted basic strike or ki blast combo string that surpasses 50 total hits.
+Easy | Master Training: Re-verify your master training by completing an expert challenge mentor spar without items.
+Hard | Raid Boss: Win a high-tier Parallel Quest using only Mentor/Instructor skills.
+Hard | Expert Mission: Successfully clear a high-difficulty Expert Mission rift.
+Hard | Supreme Victory: Achieve a Z-Rank score rating on a Level 5 or higher quest.
+Hard | Awoken Might: Win 3 matches where you maintain an Awoken Form transformation the entire time.
+Hard | Limit Break: Defeat an online opponent or hard AI without using any capsule heals.
+Hard | Expert Mission Overlord: Successfully complete an Expert Mission (Raid Boss style) solo with AI teammates without letting anyone get brainwashed.
+Hard | Ki Blast Barrage: Finish an online or high-level parallel match using *only* super/ultimate attacks for your final damage phases.
+Hard | Z-Rank Supremacy: Achieve an absolute Z-Rank on 3 separate high-level missions back-to-back.
+
+[Doom Eternal]
+Easy | Arcade Mode: Run through a favorite campaign level with infinite ammo cheats active.
+Easy | Slayer Gate: Locate and conquer a single Slayer Gate challenge.
+Easy | Weapon Mastery: Focus on unlocking or testing a specific weapon mod mastery tracking.
+Easy | Secret Finder: Collect 3 hidden toys, cheat codes, or albums in a level.
+Easy | Weekly Challenge: Complete 2 goals from the live main menu tracker.
+Easy | Gun Smith: Clear a full combat arena using only weapon mods you haven't activated yet tonight.
+Easy | Blood Fueled: Execute 5 Glory Kills within a single 30-second window to sustain maximum speed.
+Easy | Treasure Hunter: Replay a mission and uncover 3 hidden secrets or collectibles without using a map guide.
+Easy | Parkour Power: Complete an entire platforming or climbing puzzle section without falling into a hazard pit once.
+Hard | Rip & Tear: Complete a Master Level without using super weapons (BfG/Unmaykr).
+Hard | Horde Mode: Reach at least Milestone 3 in Horde Mode before dying.
+Hard | Chrono Strike: Complete a level under a self-imposed speedrun timer.
+Hard | No Armor: Complete a combat arena or encounter without picking up any shield/armor drops.
+Hard | 100% Combat: Fully clear the demonic corruption meter on a late-game campaign stage.
+Hard | Ultra-Violence Check: Complete a full Slayer Gate arena on Ultra-Violence or Nightmare difficulty without using the BFG or Unmaykr.
+Hard | Weapon Wheel Roulette: Change your weapon after every single kill in a major arena encounter until the zone is completely clear.
+Hard | Escalation Aggression: Clear both waves of an Escalation Encounter without using a single extra life or chainsaw reload.
+
+[Fallout 76]
+Easy | Vendor Raid: Spend at least 1,000 caps browsing player vendors.
+Easy | Public Event: Join and clear any active Public Event on the map.
+Easy | C.A.M.P. Builder: Spend 20 minutes updating or decorating your base.
+Easy | Daily Routine: Clear 3 challenges from your daily tracker.
+Easy | Caps & Scrip: Sell items until you max out a vendor's daily caps or scrip.
+Easy | Local Cuisine: Complete a public event while entirely under the influence of completely radiated or spoiled food.
+Easy | Junk Collector: Secure 100 pieces of raw ballistic fiber, screws, or gears in a single run.
+Hard | Nuke Hunting: Join or launch a Silo run to drop a nuke tonight.
+Hard | Raid Night: Complete an endgame Raid or major boss event (e.g., Earle/Queen).
+Hard | Expeditionary Force: Complete an Atlantic City or Pitt expedition with all optional goals.
+Hard | Cryptid Hunter: Hunt down and eliminate a legendary Cryptid.
+Hard | Weapon Roulette: Clear an event using a weapon type you rarely touch.
+Hard | Scorched Earth Tactics: Deal notable damage to a Scorchbeast Queen or Earle Williams and successfully survive the entire event.
+Hard | Naked and Afraid: Clear a high-level Super Mutant camp using only a pipe weapon and no power armor.
+
+[Gears 5]
+Easy | Horde Wave: Survive 10 consecutive waves of Horde mode on standard difficulty.
+Easy | Escape Artist: Complete a single Escape hive map on a comfortable difficulty setting.
+Easy | Daily Bounty: Clear 3 daily tour challenges to earn stars for your pass.
+Easy | Perfect Reload: Secure 10 perfect Active Reload buffs during your matches.
+Easy | Campaign Replay: Drop in and play a favorite campaign checkpoint or chapter for fun.
+Easy | Meat Shield: Grab 5 different enemies as meat shields during a single match or wave.
+Hard | Master Infiltrator: Complete an Escape hive map on Inconceivable or Master difficulty.
+Hard | Iron Horde: Survive from Wave 1 to Wave 50 in a single Horde session.
+Hard | Versus Champion: Win 2 matches of competitive Versus multiplayer.
+Hard | Ribbon Collector: Earn 5 unique combat ribbons in a single multiplayer match.
+Hard | Chainsaw Massacre: Secure 5 chainsaw or bayonet charge kills in a single round.
+Hard | Rib Ribbon: Secure 3 distinct gib kills with a Gnasher or Boomshot within a single life.
+
+[Helldivers 2]
+Easy | Sample Run: Successfully extract with at least 15 common/rare samples.
+Easy | Personal Order: Focus entirely on completing the daily personal order.
+Easy | Support Duty: Play a match where you focus strictly on resupplying and healing squadmates.
+Easy | Low Intensity: Complete a casual Difficulty 4 or 5 operation to chill out.
+Easy | Heavy Ordnance: Drop into a match using only defensive Emplacements and Sentries.
+Easy | Stratagem Roulette: Let a teammate pick your entire stratagem loadout for a Difficulty 4+ drop.
+Easy | Clean Hands: Complete a minor point of interest objective without firing a single primary weapon shot.
+Hard | Managed Democracy: Stratagems ONLY. No primary weapon shots allowed.
+Hard | Bug Spray: Complete a full Helldive (Diff 9) operation on the Terminid front.
+Hard | Bot Buster: Complete a full Helldive (Diff 9) operation on the Automaton front.
+Hard | Speedrun Democracy: Clear all main objectives in a blitz mission with 5+ minutes left.
+Hard | Zero Casualties: Complete a high-tier mission without a single squad wipe or reinforcement drain.
+Hard | Budget Cuts: Successfully complete a Difficulty 5+ mission without anyone in the squad deploying a single Support Weapon Stratagem.
+Hard | 360 No-Scope: Destroy a Hulk or a Charger using an Anti-Material Rifle or Recoilless Rifle from over 50 meters away.
+Hard | Extraction Hero: Be the last person to board the Pelican while holding the team's super samples as the timer hits zero.
+Hard | Friendly Fire Prevention: Complete an entire Difficulty 5+ mission where the squad's total friendly fire damage statistic reads exactly 0.
+
+[Rainbow Six Vegas 2]
+Easy | Terrorist Hunt: Complete a casual Terrorist Hunt map with a high density of AI.
+Easy | Armory Update: Spend time adjusting your camo patterns and gear armor ratings.
+Easy | Tactical Pace: Clear a mission floor using strictly slow, pie-clearing room entries.
+Easy | Weapon Expert: Stick to a weapon platform you haven't touched in a while.
+Easy | Intel Gathering: Snake-cam 3 rooms completely before making entry.
+Hard | Lone Wolf: Complete a Terrorist Hunt map solo on Realistic difficulty.
+Hard | Headshot Efficiency: Clear an area where every single kill is a confirmed headshot.
+Hard | No Flash, No Frag: Clear a dense map using zero tactical grenades or explosives.
+Hard | Speed Assault: Clear a Terrorist Hunt floor in under 3 minutes flat.
+Hard | Flawless Breach: Complete a high-density area without taking a single hit to your armor.
+
+[Soulcalibur 6]
+Easy | Arcade Run: Complete a standard Arcade Mode run with your favorite fighter.
+Easy | Training Day: Spend 15 minutes practicing 3 advanced combo setups in training mode.
+Easy | Libra of Soul: Complete 2 main or side quests in the RPG story mode.
+Easy | Dress Up: Spend a session in Creation Mode designing a wild custom fighter.
+Easy | Casual Sets: Jump online and play 3 casual matches without worrying about rank.
+Easy | Ring Out Royalty: Win a match round exclusively by forcing a Ring Out using low or knockback attacks.
+Easy | Soul Charge Surge: Activate Soul Charge twice in a single round and secure the final blow while the buff is active.
+Hard | Character
