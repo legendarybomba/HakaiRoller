@@ -7,3 +7,6 @@ Neutralize all hostiles in the Casino Lobby of the 'Casino' mission without taki
 Eliminate 5 Hyena Rushers in the open world.
 Defeat two Tyrants within a single arena encounter without using a BFG shot or Crucible charge.
 Defeat Expert Mission 19: "The Emperor's New Clothes" (Golden Frieza) without using any Awoken Skills or healing items.
+Rescue all hostages in the Convention Center without triggering an alarm and without any squad member being incapacitated.
+Eliminate all hostiles in the first area of the 'Red Lotus' map.
+Sandbox Freeplay Night (API Pipeline Timeout)
