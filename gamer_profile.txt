@@ -1,6 +1,0 @@
-{
-    "character_level": 4,
-    "wallet_balance": 7525,
-    "total_xp": 7540,
-    "completed_missions": 8
-}
