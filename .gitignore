@@ -1,0 +1,14 @@
+# Secret Keys
+.env
+
+# Python Compiled Files & Folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Your persistence layer (King Yemma's Tome)
+# You probably don't want to sync your actual live stats to GitHub
+yemmas_tome.json
+game_history.txt
+completed_achievements.txt
