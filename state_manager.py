@@ -7,6 +7,22 @@ class HakaiStateManager:
         self.profile = self._load_profile()
         self.active_mission = None
 
+    def sync_tome(self, history_entries=None, achievement_entries=None):
+        """Updates the ledger with new session data."""
+        if "history" not in self.profile:
+            self.profile["history"] = []
+        if "completed_achievements" not in self.profile:
+            self.profile["completed_achievements"] = []
+            
+        if history_entries:
+            self.profile["history"].extend(history_entries)
+        
+        if achievement_entries:
+            self.profile["completed_achievements"].extend(achievement_entries)
+            
+        self.save_profile()
+        print("📜 Yemma's Tome updated with session data.")
+  
     def _load_profile(self) -> dict:
         """Loads JSON, converts legacy plain text scores, or generates a fresh profile."""
         default_profile = {
