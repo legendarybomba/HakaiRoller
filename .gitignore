@@ -8,6 +8,9 @@ game_history.txt
 completed_achievements.txt
 gamer_profile.txt
 gamer_profile_sim.txt
+test_*.py
+tests/
+stash_data.json
 
 # Secrets
 .env
