@@ -12,9 +12,16 @@ def calculate_dragon_ball_drop(difficulty, profile_data):
     if len(current_balls) >= DRAGON_BALL_MAX:
         return None
         
-    drop_chances = {"easy": 0.08, "heated": 0.18, "hard": 0.35}
+    # 🟢 Recalibrated to match the Trinity Core's explicit layout tiers:
+    drop_chances = {
+        "relaxed": 0.08, 
+        "heated": 0.18, 
+        "overwhelming": 0.35
+    }
+    
     roll = random.random()
     
+    # Safely match lowercase difficulty strings
     if roll < drop_chances.get(difficulty.lower(), 0.05):
         remaining_stars = [s for s in ALL_STARS if s not in current_balls]
         if not remaining_stars:
